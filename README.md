@@ -1,2 +1,2 @@
 # Datasciencecourseera
-DATASCIENCE
+SQL FOR DATASCIENCE
